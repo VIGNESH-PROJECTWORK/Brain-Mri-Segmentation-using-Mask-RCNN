@@ -11,7 +11,7 @@ Usage
 To use the Brain Segmentation model:
 
 Clone the repository:
-git clone https://github.com/yourusername/brain-segmentation.git
+https://github.com/yourusername/brain-segmentation.git](https://github.com/VIGNESH-PROJECTWORK/Brain-Mri-Segmentation-using-Mask-RCNN
 
 Navigate to the project directory:
 cd brain-segmentation
